@@ -35,6 +35,14 @@ This project was built to:
 | 🖱️ Button Feedback | Visual interaction on clicks |
 
 ---
+## Requirements
+- Axure RP 9 installed on your system
+- Compatible with Windows and Mac
+---
+## Installation & Usage
+1. Clone the repository to your local machine:
+   ```sh
+   git clone 
 
 
 
