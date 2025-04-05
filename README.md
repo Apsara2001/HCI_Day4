@@ -42,7 +42,7 @@ This project was built to:
 ## Installation & Usage
 1. Clone the repository to your local machine:
    ```sh
-   git clone 
+   git clone https://github.com/Apsara2001/HCI_Day4.git
 
 
 
